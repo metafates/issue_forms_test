@@ -13,9 +13,9 @@ body:
   - type: textarea
     attributes:
       label: Solution you would like
-      description: "A clear and concise description of what you want to happen."
+      description: "A clear and concise description of how you want it to be implemented."
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Alternatives you have considered
