@@ -44,10 +44,8 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: "I've followed the steps described in the [Fixing Errors section](https://github.com/metafates/mangal/tree/main#fixing-errors)"
       options:
-        - label: "Yes"
-          required: true
+        - label: "I've followed the steps described in the Fixing Errors section"
   - type: markdown
     attributes:
       value: |
