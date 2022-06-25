@@ -19,7 +19,7 @@ body:
         3. Do something else
         4. See error
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Expected behavior
