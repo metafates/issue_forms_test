@@ -46,7 +46,7 @@ body:
     attributes:
       label: "I've followed the steps described in the [Fixing Errors section](https://github.com/metafates/mangal/tree/main#fixing-errors)"
       options:
-        - label: Yes
+        - label: "Yes"
           required: true
   - type: markdown
     attributes:
